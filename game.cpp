@@ -21,7 +21,8 @@ static std::vector<P> level_walls(int lvl, int cols, int rows) {
     for (int y = 4; y < rows - 4; y++)
       w.push_back({cols / 3, y});
   if (lvl >= 4)
-    for (int y = 4; y < rows - 4)y++)w.push_back({2*cols/3,y});
+    for (int y = 4; y < rows - 4; y++)
+      w.push_back({2 * cols / 3, y});
   if (lvl >= 5)
     for (int x = 8; x < cols - 8; x++)
       if ((x / 2) % 2 == 0) {
