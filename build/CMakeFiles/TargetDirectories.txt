@@ -1,0 +1,7 @@
+/home/nik/snake_game/build/CMakeFiles/snake_sdl_split.dir
+/home/nik/snake_game/build/CMakeFiles/edit_cache.dir
+/home/nik/snake_game/build/CMakeFiles/rebuild_cache.dir
+/home/nik/snake_game/build/CMakeFiles/list_install_components.dir
+/home/nik/snake_game/build/CMakeFiles/install.dir
+/home/nik/snake_game/build/CMakeFiles/install/local.dir
+/home/nik/snake_game/build/CMakeFiles/install/strip.dir

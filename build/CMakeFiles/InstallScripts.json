@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/nik/snake_game/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
